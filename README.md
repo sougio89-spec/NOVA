@@ -14,6 +14,33 @@ Experimental infrastructure for routing jobs, executing distributed compute and 
 
 ---
 
+
+<div align="center">
+
+<img src="assets/01_nova_overview.png" alt="NOVA decentralized compute network" width="100%">
+
+</div>
+
+---
+
+## NOVA at a glance
+
+<img src="assets/02_five_servers.png" alt="NOVA five servers ecosystem" width="100%">
+
+### How a job moves through NOVA
+
+<img src="assets/03_job_lifecycle.png" alt="NOVA job lifecycle" width="100%">
+
+### Dual-token architecture
+
+<img src="assets/04_dual_token_economy.png" alt="NOVA and NEXUS token economy" width="100%">
+
+### Global network vision
+
+<img src="assets/05_global_network.png" alt="NOVA global decentralized compute network" width="100%">
+
+---
+
 ## What is NOVA?
 
 NOVA is an experimental distributed infrastructure built around **five cooperating services**.
