@@ -1,0 +1,1 @@
+{ "name": "arene", "version": "2.0.0", "private": true, "scripts": { "start": "node arena-server.js" }, "engines": { "node": ">=18" } }
